@@ -83,7 +83,7 @@ form button:hover {
   transform: translateY(8rem);
   opacity: 0;
 }
-
+/*
 select {
   appearance: none;
   outline: none;
@@ -113,4 +113,4 @@ select {
 .select:hover::after {
   background-color: white;
   color: #52322a;
-}
+}*/
