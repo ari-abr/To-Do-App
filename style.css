@@ -83,6 +83,7 @@ form button:hover {
   transform: translateY(8rem);
   opacity: 0;
 }
+
 select {
   appearance: none;
   outline: none;

@@ -89,7 +89,7 @@ function filterTodo(e) {
           todo.style.display = "none";
         }
         break;
-   
+    }
   });
 }
 
