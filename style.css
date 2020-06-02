@@ -93,6 +93,8 @@ select {
   margin: 1rem;
   position: absolute;
   overflow: hidden;
+  margin-left: 20%;
+
 }
 select {
   color: #52322a;
