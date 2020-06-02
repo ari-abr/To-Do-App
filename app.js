@@ -90,7 +90,7 @@ function filterTodo(e) {
         }
         break;
     }
-  });
+  };
 }
 
 
