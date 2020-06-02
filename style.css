@@ -87,7 +87,6 @@ select {
   appearance: none;
   outline: none;
   border: none;
-  margin-left: 30%;
 }
 .select {
   margin: 1rem;
@@ -99,6 +98,8 @@ select {
   width: 10rem;
   cursor: pointer;
   padding: 1rem;
+  margin-left: 30%;
+
 }
 .select::after {
   content: "\25BC";
