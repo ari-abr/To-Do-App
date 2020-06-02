@@ -98,8 +98,6 @@ select {
   width: 10rem;
   cursor: pointer;
   padding: 1rem;
-  margin-left: 20%;
-
 }
 .select::after {
   content: "\25BC";
