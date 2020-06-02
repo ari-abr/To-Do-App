@@ -67,7 +67,7 @@ function deleteCheck(event) {
 }
 
 
-/*function filterTodo(e) {
+function filterTodo(e) {
   const todos = todoList.childNodes;
 
   todos.forEach(function (todo) {
@@ -91,7 +91,7 @@ function deleteCheck(event) {
         break;
    
   });
-}*/
+}
 
 
 function saveLocalTodos(todo) {
